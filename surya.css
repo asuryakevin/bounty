@@ -1,2 +1,26 @@
-*{background: skyblue;
+*{
+    background-color: bisque;
 }
+p {
+    color: blue;
+    text-align:lift;
+  }
+  h1{
+    color: brown;
+    text-shadow: 2px 2px #FF0000;
+  }
+h2{
+    text-decoration-line:underline ;
+    text-decoration-style:wavy ;
+}
+p{
+    font-size: 400; 
+}
+  p {
+    border-style: double;
+    border-width: 20px;
+  }
+  h1{
+        border-style: solid;
+        border-color: red green blueviolet yellow;
+  }
