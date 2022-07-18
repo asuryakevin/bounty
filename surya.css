@@ -1,26 +1,18 @@
-*{
-    background-color: bisque;
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWE0olZqns6Aguu-c7_YVpXxgbCj1GznvDw&usqp=CAU");
 }
-p {
-    color: blue;
-    text-align:lift;
-  }
-  h1{
-    color: brown;
-    text-shadow: 2px 2px #FF0000;
-  }
-h2{
-    text-decoration-line:underline ;
-    text-decoration-style:wavy ;
+a {
+  color: red;
 }
-p{
-    font-size: 400; 
+  /* visited link */
+a:visited {
+color: green;
 }
-  p {
-    border-style: double;
-    border-width: 20px;
-  }
-  h1{
-        border-style: solid;
-        border-color: red green blueviolet yellow;
-  }
+/* mouse over link */
+a:hover {
+color: purple;
+}
+/* selected link */
+a:active {
+color: blue;
+}
