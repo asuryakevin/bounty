@@ -13,6 +13,4 @@ a:hover {
 color: purple;
 }
 /* selected link */
-a:active {
-color: blue;
-}
+a:active
